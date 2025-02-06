@@ -67,7 +67,7 @@ spec:
             cpu: "500m"
         env:
         - name: TZ
-          value: America/Los_Angeles
+          value: Europe/Amsterdam
         - name: WEBPASSWORD
           value: nojunk
         - name: DNS1

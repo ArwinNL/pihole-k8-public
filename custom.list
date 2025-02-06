@@ -1,3 +1,9 @@
 # format is ip-address fqdn
-# 192.168.100.1 gateway.foo.net
-# 192.168.100.2 dns.foo.net
+192.168.178.1 gateway.home.aran-it.nl
+192.168.178.2 dns.home.aran-it.nl
+192.168.178.3 sql.home.aran-it.nl
+192.168.178.5 microk8s.home.aran-it.nl
+192.168.178.11 sun.home.aran-it.nl
+192.168.178.11 sun.aran-it.nl
+192.168.178.11 portainer.home.aran-it.n;
+192.168.178.11 unifi.home.aran-it.nl
